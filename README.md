@@ -1,6 +1,5 @@
 # work-timer   
 
-## Demo
 ![demo](https://github.com/Intercrus/work-timer/blob/master/work-timer.gif)   
 
 ## Project setup
